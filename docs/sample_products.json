@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Air Max Runner Pro",
+    "description": "Premium running shoes with advanced cushioning and breathable mesh upper. Perfect for long-distance runs and daily training.",
+    "price": 8500,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500"
+    ],
+    "tags": ["running", "sports", "featured"],
+    "stock": 15,
+    "featured": true,
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "name": "Classic Leather Sneakers",
+    "description": "Timeless leather sneakers with rubber sole. Versatile style suitable for casual and semi-formal occasions.",
+    "price": 6500,
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500",
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500"
+    ],
+    "tags": ["casual", "leather", "featured"],
+    "stock": 20,
+    "featured": true,
+    "createdAt": "2024-01-14T09:00:00Z"
+  },
+  {
+    "name": "Urban Street High-Tops",
+    "description": "Stylish high-top sneakers with canvas upper and padded ankle support. Perfect for urban streetwear looks.",
+    "price": 7200,
+    "imageUrl": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=500",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=500"
+    ],
+    "tags": ["streetwear", "canvas", "high-top"],
+    "stock": 12,
+    "featured": false,
+    "createdAt": "2024-01-13T14:20:00Z"
+  },
+  {
+    "name": "Performance Trail Runners",
+    "description": "Rugged trail running shoes with superior grip and water-resistant materials. Built for off-road adventures.",
+    "price": 9200,
+    "imageUrl": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=500"
+    ],
+    "tags": ["trail", "running", "outdoor"],
+    "stock": 8,
+    "featured": false,
+    "createdAt": "2024-01-12T15:45:00Z"
+  },
+  {
+    "name": "Minimalist Canvas Slip-Ons",
+    "description": "Comfortable slip-on shoes with breathable canvas and cushioned insole. Perfect for everyday casual wear.",
+    "price": 4800,
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500",
+    "images": [
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500"
+    ],
+    "tags": ["casual", "canvas", "slip-on"],
+    "stock": 25,
+    "featured": false,
+    "createdAt": "2024-01-11T08:20:00Z"
+  }
+]
